@@ -1,0 +1,38 @@
+# Unity generated folders
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+/MemoryCaptures/
+/Recordings/
+
+# Unity IDE and solution files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Crash and profiler output
+sysinfo.txt
+*.stackdump
+
+# Third-party Asset Store content (not redistributable)
+/Assets/FromAssetStore/
+/Assets/TextMesh Pro/
