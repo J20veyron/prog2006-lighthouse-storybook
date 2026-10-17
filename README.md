@@ -21,7 +21,7 @@ The reader follows Mila through four coastal locations to bring back four missin
 1. Open the folder in **Unity 2022.3.62f2** (Unity Hub, Add project from disk).
 2. Open `Assets/Scenes/HomePage.unity` and press Play, or use
    `Tools > PROG2006 A2 > Apply polished interactive storybook and build` to re-apply the scene configuration and export the WebGL player to `Builds/A2_FinalPreview`.
-3. The published build runs in a browser: `<itch.io link>`.
+3. The published build runs in a browser: `https://ruoxi-wang.itch.io/prog2006-lighthouse-a2`.
 
 ## What is deliberately not in this repository
 
