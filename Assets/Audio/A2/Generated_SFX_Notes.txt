@@ -1,0 +1,14 @@
+The short one-shot effects in generated_sfx were synthesized locally with
+generate_sfx.py for this Unity storybook. They use generated tones and noise;
+they were not copied from an external recording or sound library.
+
+Crab_Click.wav          dry, quick claw clicks
+Starfish_Sparkle.wav    short high-pitched shimmer
+Skiff_Splash.wav        water splash with soft bubbling tones
+DuneGrass_Rustle.wav    light wind moving through grass
+DuneFlowers_Chime.wav   gentle flower-like chime
+Lighthouse_Beam.wav     soft, warm beacon tones
+Lantern_Twinkle.wav     brighter three-note lantern effect
+Cottage_Knock.wav      two low wooden knocks
+WoodTable_Tap.wav       one hollow wooden tap
+Fireplace_Crackle.wav   brief fire crackle

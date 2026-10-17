@@ -1,0 +1,7 @@
+A2 modular scene assets
+
+The six base backgrounds were edited from the project's A2 environment illustrations on 12 October 2026 with OpenAI ImageGen. The edits preserve sky, water, shoreline, dunes, or the room's wood architecture while removing the major cliffs, tree lines, cottages, dock and furniture previously baked into the scene image.
+
+The independently generated transparent sprites are Coastal_Cliff, Harbour_Cottage, Harbour_DockSegment, Interior_Table, Interior_Chair, Interior_Bookcase, Interior_Sofa, Interior_WoodStove and Interior_Rug. Existing project sprites remain in use for pine trees, gulls, grasses, flowers, crab, shell, starfish, kelp, skiff, bell, lanterns and the lighthouse. The existing Unity DuneRidge object remains a separate layer.
+
+These assets are intended to be separate Unity Image objects so each can be moved, reordered, resized or animated independently. This note records provenance for later assignment documentation; it does not replace the GenAI-use disclosure.

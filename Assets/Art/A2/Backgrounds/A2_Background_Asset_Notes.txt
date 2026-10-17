@@ -1,0 +1,13 @@
+A2 storybook scene backgrounds
+
+These six full-bleed environment illustrations were generated with OpenAI ImageGen on 12 October 2026, using the project's Coastal_Environment_Concept_Board.png as a visual reference. The scenes retain the coastline, harbour, dunes, village and home atmosphere while omitting the main movable story props. Mila, the lighthouse, gulls, small animals, lanterns and other interactive details remain as separate Unity objects/sprites so they can be repositioned, animated and given interaction feedback.
+
+Files:
+- BG_HomePage.png: dusk coastline for the title page
+- BG_RockyShore.png: rocky shoreline and tide pools
+- BG_Harbour.png: harbour, seawall and dock
+- BG_Dunes.png: dunes, grass and beach path
+- BG_MilasHome.png: warm interior and sunset window
+- BG_Credits.png: sunset coast for credits
+
+This note records asset provenance for later documentation; it does not replace the assignment's GenAI-use disclosure.
